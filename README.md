@@ -14,6 +14,16 @@ Includes:
 - ProvenanceAerospace (New Glenn)
 - SOCK (Space Shuttle)
 - SPDS (More Shuttle Parts)
+
+**OTHER MODS**
+
+I have configured other mods for RealismOverhaul, the reason they aren't in this download is because they have separate existing repositories.
+You can find those configus through these links.
+
+Bluedog_DB: https://github.com/SkyPhoenix999/Bluedog_DB-RO-Configs
+ORANGES: https://github.com/SkyPhoenix999/ORANGES_RO
+Artemis Construction Kit: https://github.com/SkyPhoenix999/Artemis-Construction-Kit-RO-Configs
+Tundra Exploration (Kerbal Reusability Expansion and Tundra Technologies Included): https://github.com/SkyPhoenix999/TundraExploration_RO
   
 
 **INSTALL INSTRUCTIONS**:
