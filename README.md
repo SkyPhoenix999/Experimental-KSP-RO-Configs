@@ -13,7 +13,7 @@ Includes:
 - H2 (H-IIA, H-IIB, and H-3 Rockets)
 - HabTech2 (ISS/Space Station Freedom)
 - IQ_BlueMoon (Blue Moon Mk2)
-- KODS (Electron, Terran 1, Vulcan Centaur)
+- KODS (Electron, Terran 1, Vulcan Centaur, Rocket 3, Helios)
 - Matveich_HTV (HTV Cargo Vehicle)
 - PhotonCorp (STS SRBs)
 - ProvenanceAerospace (New Glenn)
